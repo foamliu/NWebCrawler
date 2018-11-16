@@ -11,4 +11,4 @@ Features:
 
 
 Screenshot:
-![image](screenshot.jpg)
+![image](https://github.com/foamliu/NWebCrawler/raw/master/images/screenshot.jpg)
