@@ -1,0 +1,2248 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>
+    Videos :: Microsoft PDC09
+</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="generator" content="Oxite" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link href="/Content/icons/pdc.ico" rel="shortcut icon" />
+    <meta name="language" content="en" />
+    
+    <meta name="robots" content="noindex,follow" />
+ 
+    <meta name="description" content="Nov 17-19; Workshops-Nov 16 (Los Angeles Convention Center) The Professional Developers Conference (PDC) is Microsoft's premier gathering of leading-edge developers and architects." /><link href="http://microsoftpdc.com/OpenSearch.xml" rel="search" title="Microsoft PDC09 Search" type="application/opensearchdescription+xml" />
+<meta name="Search.Section" content="Videos" />
+<meta name="Search.PageType" content="List" />
+<meta name="Search.Section" content="PDC09" />
+    
+<link href="/Sessions/RSS" rel="alternate" title="WMVHigh (RSS)" type="application/rss+xml" /><link href="/Sessions/RSS/WMV" rel="alternate" title="WMV (RSS)" type="application/rss+xml" /><link href="/Sessions/RSS/MP4" rel="alternate" title="MP4 (RSS)" type="application/rss+xml" /><link href="/Sessions/RSS/PPT" rel="alternate" title="PPT (RSS)" type="application/rss+xml" /><link href="/Skins/PDC09/Styles/screen.css" rel="stylesheet" type="text/css" /><script src="http://ajax.Microsoft.com/ajax/jQuery/jquery-1.3.2.js" type="text/javascript"></script><script src="/Skins/PDC09/Scripts/jquery.qtip-1.0.0-rc3.js" type="text/javascript"></script><link href="/Skins/PDC09/Styles/jquery.autocomplete.css" rel="stylesheet" type="text/css" /><link href="http://widgets.twimg.com/j/1/widget.css" type="text/css" rel="stylesheet" /></head>
+<body class="scheduleitem video videos">
+    <script type="text/javascript">/*<![CDATA[*/document.body.className += (document.body.className.length > 0 ? ' ' : '') + 'dyn';//]]></script>
+<!-- WebTrends -->
+<script src="/Skins/PDC09/Scripts/webtrends.js" type="text/javascript"></script>
+<script type="text/javascript">/*<![CDATA[*/var _tag=new WebTrends();_tag.dcsGetId(function(){_tag.dcsCollect();});//]]></script>
+<noscript><div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.1"/></div></noscript>
+<!-- End WebTrends -->
+	<div id="interface">
+		<div id="header"><div id="siteName"><a href="/">Microsoft PDC09</a></div>
+<div id="globals">
+    <div id="userinfo">
+<div class="login"><a href="http://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=11&amp;ct=1262054636&amp;rver=5.5.4177.0&amp;wp=MBI&amp;wreply=http:%2F%2Fmicrosoftpdc.com%2FVideos&amp;lc=1033&amp;id=266725">sign in</a></div></div>
+    
+<form id="search" method="get" action="/Search">
+    <fieldset>
+		<label for="globalsearchterm">Search:</label>
+        <input class="text" id="globalsearchterm" name="term" type="text" value="" />
+		<input class="search button" type="submit" value="Search" />
+	</fieldset>
+</form>
+</div>
+<div id="banner">
+</div>
+		</div>
+		<div id="contentarea">
+		    <div id="navigation">
+<div id="primarynav">
+	<ul class="nav"> 
+		<li id="navregistration" class="primary">
+			<a href="/Registration" class="primary">Registration</a>
+			<ul class="secondary">
+				<li><a href="/Hotels" id="navhotels">Hotels</a></li>
+			</ul>
+		</li>
+		<li id="navabout" class="primary">
+			<a href="/About" class="primary">About</a>
+			<ul class="secondary">
+				<li><a href="/PDCClassics" id="navpdcclassics">PDC Classics</a></li>
+				<li><a href="/Art" id="navart">PDC09 Art</a></li>
+			</ul>
+		</li>
+		<li id="navworkshopssessions" class="primary">
+			<a href="/WorkshopsAndSessions" class="primary">Workshops + Sessions</a>
+			<ul class="secondary">
+				<li><a href="/Sessions" id="navsessions">Sessions</a></li>
+				<li><a href="/Schedule" id="navschedule">Schedule</a></li>
+				<li><a href="/Videos" id="navvideos">Videos</a></li>
+				<li><a href="/Workshops" id="navworkshops">Workshops</a></li>
+				<li><a href="/Speakers" id="navspeakers">Speakers</a></li>
+				<li><a href="/SpecialEvents" id="navspecialevents">Special Events</a></li>
+			</ul>				
+		</li>
+		<li id="navblog" class="primary">
+			<a href="/BehindTheScenes" class="primary">Blog</a>
+			<ul class="secondary">
+			    <li><a href="/BehindTheScenes" id="navbehindthescenes">Behind the Scenes</a></li>
+			    <li><a href="/WhatsHappening" id="navwhatshappening">What's Happening</a></li>
+			</ul>
+		</li>
+		<li id="navsponsorsexhibitors" class="primary">
+			<a href="/Sponsors" class="primary">Sponsors + Exhibitors</a>
+			<ul class="secondary">
+				<li><a href="/Exhibitors" id="navexhibitors">Exhibitors</a></li>
+				<li><a href="/PartnerOpportunities" id="navpartneropportunities">Partner Opportunities</a></li>
+			</ul>						
+		</li>
+		<li id="navthegoods" class="primary">
+			<a href="/Resources" class="primary">The Goods</a>
+			<ul class="secondary">
+				<li><a href="/Resources" id="navresources">Resources</a></li>
+				<li><a href="/tablet" id="navtablet">Acer Tablet Details</a></li>
+			</ul>						
+		</li>
+	</ul>
+</div>
+ 
+            </div>
+			<div id="content">
+				<div id="primary">
+    <h1>Videos</h1>
+ 
+    <p>This page provides a handy 'all-in-one' list of sessions that are available for watching on demand. 
+    Sessions need to be encoded, edited and uploaded before they appear here, so if the session you want isn't here
+    just check back after another day.</p>
+    <p><em>Sessions with titles in <strong>bold</strong> are available for smooth streaming playback</em></p>
+    <h3>Using Mike Swanson's downloader and renamer</h3>
+    <p>If you¡¯d like to download all of the keynote and session content, download a recent build of <a href="http://curl.haxx.se/">cURL (~250K)</a>,
+     and extract it to your folder-of-choice. Then, download <a href="http://ecn.channel9.msdn.com/o9/pdc/PDC09DownloaderCSR.zip">PDC09Downloader.zip (1.49KB)</a> and extract 
+     the PDC09Downloader.bat file to the same folder. From a command prompt, start PDC09Downloader by 
+     passing it one of the following parameters: WMVHIGH, WMV, MP4, PPTX. Then wait. 
+     For files that aren¡¯t available, cURL will download a file that is around 221 bytes in size 
+     (if you change the extension to .htm and open it, you¡¯ll see that the file is simply an HTML "not found" error page).</p>
+    <p>To rename the files, first, download the <a href="http://ecn.channel9.msdn.com/o9/pdc/PDC09RenamerCSR.zip">PDC09 Renamer batch file (4.52KB)</a>. Then, extract 
+    the PDC09Renamer.bat file to the folder that contains your downloaded files, and from a command prompt,
+     type PDC09Renamer WMV to rename all of the .WMV files to the full session title. By changing the parameter,
+      you can also rename your PPTX and MP4 files.</p>
+      
+    <div id="browser">
+	    <div id="tabs">
+		    <a href="/Sessions" class="tab">Sessions</a>
+		    <a href="/Schedule" class="tab">Schedule</a>		    
+		    <a href="/Videos" class="tab" id="videostab">Videos</a>		    
+	    </div>
+        
+<div id="videos" class="videos">
+    
+<table id="videolist" border="0">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Title</th>
+            <th>WMV</th>
+            <th>WMV High</th>
+            <th>MP4</th>
+            <th>Slides</th>
+        </tr>
+    </thead>
+    <tbody>
+ 
+    <tr class="">
+        <td>CL05</td>
+        <td>
+            <a href="/Sessions/CL05" alt="">Embodiment: The Third Great Wave of Computing Applications</a>
+            <br />
+            <span class="speakers"><em>Butler Lampson</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL05.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL05.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL05.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL05.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>CL06</td>
+        <td>
+            <a href="/Sessions/CL06" alt="">Networking and Web Services in Silverlight</a>
+            <br />
+            <span class="speakers"><em>Yavor Georgiev</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL06.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL06.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL06.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL06.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>CL07</td>
+        <td>
+            <a href="/Sessions/CL07" alt="">Mastering Microsoft .NET RIA Services</a>
+            <br />
+            <span class="speakers"><em>Dinesh Kulkarni</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL07.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL07.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL07.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL07.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>CL35</td>
+        <td>
+            <a href="/Sessions/CL08" alt="">Custom Behaviors for Advanced Microsoft Silverlight UI Effects</a>
+            <br />
+            <span class="speakers"><em>Peter Blois</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL35.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL35.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL35.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL35.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class=" smooth">
+        <td>CL09</td>
+        <td>
+            <a href="/Sessions/CL09" alt="">How Microsoft Visual Studio 2010 Was Built with WPF 4</a>
+            <br />
+            <span class="speakers"><em>Paul Harrington</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL09.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL09.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL09.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL09.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>CL10</td>
+        <td>
+            <a href="/Sessions/CL10" alt="">Windows Presentation Foundation 4 Plumbing and Internals</a>
+            <br />
+            <span class="speakers"><em>Blake Stone</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL10.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL10.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL10.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL10.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class=" smooth">
+        <td>CL11</td>
+        <td>
+            <a href="/Sessions/CL11" alt="">Advanced WPF Application Performance Tuning and Analysis</a>
+            <br />
+            <span class="speakers"><em>Bart De Smet, Eric Harding</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL11.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL11.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL11.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL11.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow smooth">
+        <td>CL12</td>
+        <td>
+            <a href="/Sessions/CL12" alt="">Developing with the Windows API Code Pack for Microsoft .NET Framework</a>
+            <br />
+            <span class="speakers"><em>Yochay Kiriaty</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL12.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL12.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL12.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL12.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>CL13</td>
+        <td>
+            <a href="/Sessions/CL13" alt="">Windows Touch Deep Dive</a>
+            <br />
+            <span class="speakers"><em>Reed Townsend</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL13.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL13.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL13.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL13.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow smooth">
+        <td>CL14</td>
+        <td>
+            <a href="/Sessions/CL14" alt="">Advanced Graphics Functionality Using DirectX</a>
+            <br />
+            <span class="speakers"><em>Michael Oneppo</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL14.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL14.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL14.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL14.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>CL15</td>
+        <td>
+            <a href="/Sessions/CL15" alt="">Modern 3D Graphics Using Windows 7 and Direct3D 11 Hardware</a>
+            <br />
+            <span class="speakers"><em>Michael Oneppo</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL15.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL15.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL15.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL15.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>CL16</td>
+        <td>
+            <a href="/Sessions/CL16" alt="">Optimizing for Performance with the Windows Performance Toolkit</a>
+            <br />
+            <span class="speakers"><em>Michael Milirud</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL16.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL16.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL16.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL16.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class=" smooth">
+        <td>CL17</td>
+        <td>
+            <a href="/Sessions/CL17" alt="">Building Sensor- and Location-Aware Applications with Windows 7 and .NET Framework 4</a>
+            <br />
+            <span class="speakers"><em>Gavin Gear</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL17.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL17.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL17.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL17.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow smooth">
+        <td>CL18</td>
+        <td>
+            <a href="/Sessions/CL18" alt="">Windows Ribbon Technical Deep Dive</a>
+            <br />
+            <span class="speakers"><em>Ryan Demopoulos</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL18.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL18.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL18.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL18.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>CL19</td>
+        <td>
+            <a href="/Sessions/CL19" alt="">Building Line of Business Applications with Microsoft Silverlight 4</a>
+            <br />
+            <span class="speakers"><em>David Poll</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL19.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL19.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL19.mp4" alt="MP4">MP4</a></td>
+        <td></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>CL20</td>
+        <td>
+            <a href="/Sessions/CL20" alt="">Improving and Extending the Sandbox with Microsoft Silverlight 4</a>
+            <br />
+            <span class="speakers"><em>Joe Stegman</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL20.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL20.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL20.mp4" alt="MP4">MP4</a></td>
+        <td></td>
+    </tr>
+    
+    <tr class="">
+        <td>CL21</td>
+        <td>
+            <a href="/Sessions/CL21" alt="">Building Amazing Business Applications with Microsoft Silverlight and Microsoft .NET RIA Services</a>
+            <br />
+            <span class="speakers"><em>Brad Abrams</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL21.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL21.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL21.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL21.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>CL22</td>
+        <td>
+            <a href="/Sessions/CL22" alt="">Advanced Topics for Building Large-Scale Applications with Microsoft Silverlight</a>
+            <br />
+            <span class="speakers"><em>John Papa</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL22.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL22.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL22.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL22.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>CL23</td>
+        <td>
+            <a href="/Sessions/CL23" alt="">SketchFlow: Prototyping to the Rescue</a>
+            <br />
+            <span class="speakers"><em>Christian Schormann</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL23.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL23.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL23.mp4" alt="MP4">MP4</a></td>
+        <td></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>CL24</td>
+        <td>
+            <a href="/Sessions/CL24" alt="">XAML Futures in Microsoft .NET Framework, Microsoft Silverlight and Tools</a>
+            <br />
+            <span class="speakers"><em>Michael Shim, Rob Relyea</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL24.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL24.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL24.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL24.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>CL25</td>
+        <td>
+            <a href="/Sessions/CL25" alt="">Become a Web Debugging Virtuoso with Fiddler</a>
+            <br />
+            <span class="speakers"><em>Eric Lawrence</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL25.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL25.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL25.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL25.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>CL26</td>
+        <td>
+            <a href="/Sessions/CL26" alt="">The &quot;Audience API&quot;: Live Framework Present and Future</a>
+            <br />
+            <span class="speakers"><em>Todd Manion</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL26.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL26.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL26.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL26.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>CL27</td>
+        <td>
+            <a href="/Sessions/CL27" alt="">Multi-Touch on Microsoft Surface and Windows 7 for .NET Developers</a>
+            <br />
+            <span class="speakers"><em>Anson Tsao, Robert Levy</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL27.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL27.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL27.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL27.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>CL28</td>
+        <td>
+            <a href="/Sessions/CL28" alt="">New Developer Tools in Windows Embedded Standard 2011</a>
+            <br />
+            <span class="speakers"><em>Robert Smith, Ben Tucker</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL28.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL28.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL28.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL28.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class=" smooth">
+        <td>CL29</td>
+        <td>
+            <a href="/Sessions/CL29" alt="">Windows 7 and Windows Server 2008 R2 Kernel Changes (Continued from 1:30 Session)</a>
+            <br />
+            <span class="speakers"><em>Mark Russinovich</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL29.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL29.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL29.mp4" alt="MP4">MP4</a></td>
+        <td></td>
+    </tr>
+    
+    <tr class="oddrow smooth">
+        <td>CL30</td>
+        <td>
+            <a href="/Sessions/CL30" alt="">Microsoft Expression Blend 3 for Developers: Tips, Tricks and Best Practices</a>
+            <br />
+            <span class="speakers"><em>DoRon Motter</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL30.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL30.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL30.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL30.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>CL31</td>
+        <td>
+            <a href="/Sessions/CL31" alt="">Mastering WPF Graphics and Beyond</a>
+            <br />
+            <span class="speakers"><em>David Teitlebaum</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL31.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL31.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL31.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL31.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>CL32</td>
+        <td>
+            <a href="/Sessions/CL32" alt="">Developing Testable Silverlight Applications</a>
+            <br />
+            <span class="speakers"><em>Keith Jones</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL32.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL32.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL32.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL32.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class=" smooth">
+        <td>CL33</td>
+        <td>
+            <a href="/Sessions/CL33" alt="">Windows Error Reporting</a>
+            <br />
+            <span class="speakers"><em>Kevin Hill</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL33.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL33.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL33.mp4" alt="MP4">MP4</a></td>
+        <td></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>CL34</td>
+        <td>
+            <a href="/Sessions/CL34" alt="">Media Foundation: Supporting Hardware Codecs and Cameras</a>
+            <br />
+            <span class="speakers"><em>Stan Pennington</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL34.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL34.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL34.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL34.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>CL36</td>
+        <td>
+            <a href="/Sessions/CL36" alt="">Deep Dive on Bing Maps Silverlight Control</a>
+            <br />
+            <span class="speakers"><em>Keith Kinnan</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL36.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL36.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL36.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL36.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow smooth">
+        <td>FT08</td>
+        <td>
+            <a href="/Sessions/FT08" alt="">Code Visualization, UML, and DSLs</a>
+            <br />
+            <span class="speakers"><em>Cameron Skinner</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT08.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT08.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT08.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT08.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT09</td>
+        <td>
+            <a href="/Sessions/FT09" alt="">Scrum in the Enterprise and Process Customization with Microsoft Visual Studio 2010</a>
+            <br />
+            <span class="speakers"><em>Simon Bennett, Stuart Preston</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT09.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT09.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT09.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT09.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow smooth">
+        <td>FT10</td>
+        <td>
+            <a href="/Sessions/FT10" alt="">Evolving ADO.NET Entity Framework in .NET 4 and Beyond</a>
+            <br />
+            <span class="speakers"><em>Shyam Pather, Chris Anderson</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT10.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT10.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT10.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT10.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class=" smooth">
+        <td>FT11</td>
+        <td>
+            <a href="/Sessions/FT11" alt="">Future Directions for C# and Visual Basic</a>
+            <br />
+            <span class="speakers"><em>Luca Bolognese</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT11.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT11.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT11.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT11.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>FT12</td>
+        <td>
+            <a href="/Sessions/FT12" alt="">ADO.NET Data Services: What¡¯s new with the RESTful data services framework</a>
+            <br />
+            <span class="speakers"><em>Pablo Castro</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT12.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT12.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT12.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT12.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT13</td>
+        <td>
+            <a href="/Sessions/FT13" alt="">What¡¯s New for Windows Communication Foundation 4</a>
+            <br />
+            <span class="speakers"><em>Ed Pinto</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT13.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT13.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT13.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT13.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>FT14</td>
+        <td>
+            <a href="/Sessions/FT14" alt="">Workflow Services and Windows Server AppFabric</a>
+            <br />
+            <span class="speakers"><em>Mark Fussell</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT14.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT14.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT14.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT14.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT16</td>
+        <td>
+            <a href="/Sessions/FT16" alt="">Advanced Diagnostics, IntelliTrace? and Test Automation</a>
+            <br />
+            <span class="speakers"><em>Habib Heydarian</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT16.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT16.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT16.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT16.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>FT17</td>
+        <td>
+            <a href="/Sessions/FT17" alt="">Spice Up Your Applications with Windows Workflow Foundation 4</a>
+            <br />
+            <span class="speakers"><em>Matt Winkler</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT17.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT17.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT17.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT17.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class=" smooth">
+        <td>FT18</td>
+        <td>
+            <a href="/Sessions/FT18" alt="">Microsoft ASP.NET Futures</a>
+            <br />
+            <span class="speakers"><em>Jonathan Carter, Scott Hunter</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT18.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT18.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT18.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT18.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>FT19</td>
+        <td>
+            <a href="/Sessions/FT19" alt="">C++ Forever: Interactive Applications in the Age of Manycore</a>
+            <br />
+            <span class="speakers"><em>Rick Molloy</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT19.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT19.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT19.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT19.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT20</td>
+        <td>
+            <a href="/Sessions/FT20" alt="">F# for Parallel and Asynchronous Programming</a>
+            <br />
+            <span class="speakers"><em>Luke Hoban</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT20.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT20.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT20.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT20.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>FT21</td>
+        <td>
+            <a href="/Sessions/FT21" alt="">PLINQ: LINQ, but Faster!</a>
+            <br />
+            <span class="speakers"><em>Ed Essey, Igor Ostrovsky</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT21.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT21.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT21.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT21.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT22</td>
+        <td>
+            <a href="/Sessions/FT22" alt="">Microsoft ASP.NET MVC 2: The New Stuff</a>
+            <br />
+            <span class="speakers"><em>Stephen Walther</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT22.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT22.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT22.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT22.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>FT23</td>
+        <td>
+            <a href="/Sessions/FT23" alt="">Extending the Microsoft Visual Studio 2010 Code Editor to Visualize Runtime Intelligence</a>
+            <br />
+            <span class="speakers"><em>Bill Leach, Gabriel Torok</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT23.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT23.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT23.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT23.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT24</td>
+        <td>
+            <a href="/Sessions/FT24" alt="">Building Extensible Rich Internet Applications with the Managed Extensibility Framework</a>
+            <br />
+            <span class="speakers"><em>Glenn Block</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT24.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT24.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT24.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT24.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>FT25</td>
+        <td>
+            <a href="/Sessions/FT25" alt="">Microsoft Application Server Technologies: Present and Future</a>
+            <br />
+            <span class="speakers"><em>Anil Nori</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT25.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT25.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT25.mp4" alt="MP4">MP4</a></td>
+        <td></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT26</td>
+        <td>
+            <a href="/Sessions/FT26" alt="">Scaling Your Data Tier with Windows Server AppFabric</a>
+            <br />
+            <span class="speakers"><em>Murali Krishnaprasad</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT26.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT26.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT26.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT26.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>FT27</td>
+        <td>
+            <a href="/Sessions/FT27" alt="">Application Server Extensibility with Microsoft .NET 4 and Windows Server AppFabric</a>
+            <br />
+            <span class="speakers"><em>Nicholas Allen</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT27.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT27.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT27.mp4" alt="MP4">MP4</a></td>
+        <td></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT28</td>
+        <td>
+            <a href="/Sessions/FT28" alt="">Microsoft .NET Micro Framework and Intelligent Devices</a>
+            <br />
+            <span class="speakers"><em>Lorenzo Tessiore</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT28.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT28.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT28.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT28.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>FT29</td>
+        <td>
+            <a href="/Sessions/FT29" alt="">Microsoft AJAX Library, jQuery, and Microsoft Visual Studio 2010</a>
+            <br />
+            <span class="speakers"><em>Stephen Walther</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT29.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT29.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT29.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT29.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class=" smooth">
+        <td>FT30</td>
+        <td>
+            <a href="/Sessions/FT30" alt="">Using Dynamic Languages to Build Scriptable Applications</a>
+            <br />
+            <span class="speakers"><em>Dino Viehland</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT30.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT30.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT30.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT30.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow smooth">
+        <td>FT31</td>
+        <td>
+            <a href="/Sessions/FT31" alt="">Dynamic Binding in C# 4</a>
+            <br />
+            <span class="speakers"><em>Mads Torgersen</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT31.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT31.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT31.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT31.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT32</td>
+        <td>
+            <a href="/Sessions/FT32" alt="">Code Like the Wind with Microsoft Visual Basic 2010</a>
+            <br />
+            <span class="speakers"><em>Lucian Wischik</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT32.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT32.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT32.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT32.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>FT33</td>
+        <td>
+            <a href="/Sessions/FT33" alt="">Microsoft Visual Basic IDE Tips and Tricks</a>
+            <br />
+            <span class="speakers"><em>Dustin Campbell</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT33.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT33.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT33.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT33.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT34</td>
+        <td>
+            <a href="/Sessions/FT34" alt="">Microsoft Project Code Name ¡°M¡±: The Data and Modeling Language</a>
+            <br />
+            <span class="speakers"><em>Don Box, Jeff Pinkston</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT34.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT34.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT34.mp4" alt="MP4">MP4</a></td>
+        <td></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>FT35</td>
+        <td>
+            <a href="/Sessions/FT35" alt="">Microsoft Visual C# IDE Tips and Tricks</a>
+            <br />
+            <span class="speakers"><em>DJ Park</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT35.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT35.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT35.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT35.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT50</td>
+        <td>
+            <a href="/Sessions/FT50" alt="">Building Data-Driven Applications Using Microsoft Project Code Name &quot;Quadrant&quot; and Microsoft Project Code Name &quot;M&quot;</a>
+            <br />
+            <span class="speakers"><em>Chris Sells, Douglas Purdy</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT50.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT50.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT50.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT50.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>FT36</td>
+        <td>
+            <a href="/Sessions/FT51" alt="">Future of Garbage Collection</a>
+            <br />
+            <span class="speakers"><em>Patrick Dussud</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT36.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT36.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT36.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT36.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT52</td>
+        <td>
+            <a href="/Sessions/FT52" alt="">Microsoft Perspectives on the Future of Programming</a>
+            <br />
+            <span class="speakers"><em>Butler Lampson, Erik Meijer, Don Box, Jeffrey Snover, Herb Sutter, Burton Smith</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT52.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT52.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT52.mp4" alt="MP4">MP4</a></td>
+        <td></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>FT53</td>
+        <td>
+            <a href="/Sessions/FT53" alt="">Microsoft Visual Studio Lab Management to the Build Setup Rescue</a>
+            <br />
+            <span class="speakers"><em>Vinod Malhotra</em></span>
+        </td>
+        <td></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT53.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT53.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT53.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT54</td>
+        <td>
+            <a href="/Sessions/FT54" alt="">Power Tools for Debugging</a>
+            <br />
+            <span class="speakers"><em>Sandeep Karanth, Kapil Vaswani</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT54.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT54.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT54.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT54.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>FT55</td>
+        <td>
+            <a href="/Sessions/FT55" alt="">Developing REST Applications with the .NET Framework</a>
+            <br />
+            <span class="speakers"><em>Henrik Nielsen</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT55.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT55.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT55.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT55.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT56</td>
+        <td>
+            <a href="/Sessions/FT56" alt="">Web Deployment Painkillers: Microsoft Visual Studio 2010 &amp; MS Deploy</a>
+            <br />
+            <span class="speakers"><em>Vishal R. Joshi</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT56.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT56.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT56.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT56.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow smooth">
+        <td>FT57</td>
+        <td>
+            <a href="/Sessions/FT57" alt="">Microsoft ASP.NET 4 Core Runtime for Web Developers</a>
+            <br />
+            <span class="speakers"><em>Stefan Schackow</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT57.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT57.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT57.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT57.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT58</td>
+        <td>
+            <a href="/Sessions/FT58" alt="">What¡¯s New in Microsoft ASP.NET 4 Web Forms and Dynamic Data</a>
+            <br />
+            <span class="speakers"><em>Scott Hunter</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT58.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT58.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT58.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT58.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>FT59</td>
+        <td>
+            <a href="/Sessions/FT59" alt="">ASP.NET MVC 2: Ninjas Still on Fire Black Belt Tips</a>
+            <br />
+            <span class="speakers"><em>Scott Hanselman</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT59.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT59.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT59.mp4" alt="MP4">MP4</a></td>
+        <td></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT60</td>
+        <td>
+            <a href="/Sessions/FT60" alt="">A Lap Around Microsoft Visual Studio and Team Foundation Server 2010</a>
+            <br />
+            <span class="speakers"><em>Mario Rodriguez, Cameron Skinner</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT60.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT60.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT60.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT60.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow smooth">
+        <td>KEY01</td>
+        <td>
+            <a href="/Sessions/KEY01" alt="">Day 1 Keynote</a>
+            <br />
+            <span class="speakers"><em></em></span>
+        </td>
+        <td></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/KYN01-PGM.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    
+    <tr class=" smooth">
+        <td>KEY02</td>
+        <td>
+            <a href="/Sessions/KEY02" alt="">Day 2 Keynote</a>
+            <br />
+            <span class="speakers"><em></em></span>
+        </td>
+        <td></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/KEY02.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVR01</td>
+        <td>
+            <a href="/Sessions/P09-01" alt="">Accelerating Applications Using Windows HPC Server 2008</a>
+            <br />
+            <span class="speakers"><em>Ming Xu</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR01.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR01.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR01.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR01.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT05</td>
+        <td>
+            <a href="/Sessions/P09-02" alt="">Automating &quot;Done Done&quot; in  the Team Workflows with Microsoft Visual Studio Ultimate and Team Foundation Server 2010</a>
+            <br />
+            <span class="speakers"><em>Brian Randell, Jamie Cool</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT05.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT05.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT05.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT05.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow smooth">
+        <td>SVC01</td>
+        <td>
+            <a href="/Sessions/P09-03" alt="">Lap Around the Windows Azure Platform</a>
+            <br />
+            <span class="speakers"><em>Manuvir Das</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC01.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC01.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC01.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC01.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT02</td>
+        <td>
+            <a href="/Sessions/P09-04" alt="">Data Programming and Modeling for the Microsoft .NET Developer</a>
+            <br />
+            <span class="speakers"><em>Don Box, Chris Anderson</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT02.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT02.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT02.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT02.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>PR03</td>
+        <td>
+            <a href="/Sessions/P09-05" alt="">Developer Patterns to Integrate Microsoft Silverlight 3.0 with Microsoft SharePoint 2010</a>
+            <br />
+            <span class="speakers"><em>Paul Stubbs</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/PR03.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/PR03.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/PR03.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/PR03.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>PR01</td>
+        <td>
+            <a href="/Sessions/P09-07" alt="">Developing xRM Solutions Using Windows Azure</a>
+            <br />
+            <span class="speakers"><em>Andrew Bybee</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/PR01.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/PR01.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/PR01.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/PR01.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC03</td>
+        <td>
+            <a href="/Sessions/P09-08" alt="">Development Best Practices and Patterns for Using Microsoft SQL Azure Databases</a>
+            <br />
+            <span class="speakers"><em>Tony Petrossian</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC03.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC03.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC03.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC03.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class=" smooth">
+        <td>FT03</td>
+        <td>
+            <a href="/Sessions/P09-09" alt="">Manycore and the Microsoft .NET Framework 4: A Match Made in Microsoft Visual Studio 2010</a>
+            <br />
+            <span class="speakers"><em>Stephen Toub</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT03.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT03.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT03.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT03.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>CL02</td>
+        <td>
+            <a href="/Sessions/P09-10" alt="">Microsoft Silverlight 3: Advanced Performance and Profiling Techniques</a>
+            <br />
+            <span class="speakers"><em>Seema Ramchandani</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL02.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL02.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL02.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL02.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class=" smooth">
+        <td>CL01</td>
+        <td>
+            <a href="/Sessions/P09-11" alt="">Microsoft Silverlight 4 Overview</a>
+            <br />
+            <span class="speakers"><em>Karen Corby</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL01.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL01.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL01.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL01.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow smooth">
+        <td>PR05</td>
+        <td>
+            <a href="/Sessions/P09-12" alt="">Microsoft Unified Communications: Developer Platform Futures</a>
+            <br />
+            <span class="speakers"><em>Chris Mayo</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/PR05.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/PR05.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/PR05.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/PR05.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class=" smooth">
+        <td>FT06</td>
+        <td>
+            <a href="/Sessions/P09-13" alt="">Accelerated Windows Application Development with Microsoft Visual C++ 2010</a>
+            <br />
+            <span class="speakers"><em>Boris Jabes</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT06.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT06.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT06.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT06.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC04</td>
+        <td>
+            <a href="/Sessions/P09-14" alt="">Petabytes for Peanuts! Making Sense out of ¡°Ambient¡± Data.</a>
+            <br />
+            <span class="speakers"><em>David Campbell</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC04.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC04.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC04.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC04.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVR03</td>
+        <td>
+            <a href="/Sessions/P09-15" alt="">Data Tier Applications in Visual Studio 2010</a>
+            <br />
+            <span class="speakers"><em>Sanjay Nagamangalam, S Murali</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR03.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR03.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR03.mp4" alt="MP4">MP4</a></td>
+        <td></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>CL03</td>
+        <td>
+            <a href="/Sessions/P09-16" alt="">DirectX11 DirectCompute</a>
+            <br />
+            <span class="speakers"><em>Chas Boyd</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL03.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL03.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL03.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL03.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>FT07</td>
+        <td>
+            <a href="/Sessions/P09-17" alt="">The State of Parallel Programming</a>
+            <br />
+            <span class="speakers"><em>Burton Smith</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT07.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT07.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT07.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT07.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>PR02</td>
+        <td>
+            <a href="/Sessions/P09-18" alt="">Overview of SharePoint 2010 Programmability</a>
+            <br />
+            <span class="speakers"><em>Mike Ammerlaan</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/PR02.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/PR02.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/PR02.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/PR02.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVR02</td>
+        <td>
+            <a href="/Sessions/P09-19" alt="">Using Classification for Data Security and Data Management</a>
+            <br />
+            <span class="speakers"><em>Clyde Law</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR02.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR02.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR02.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR02.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>CL04</td>
+        <td>
+            <a href="/Sessions/P09-20" alt="">Windows 7 and Windows Server 2008 R2 Kernel Changes</a>
+            <br />
+            <span class="speakers"><em>Mark Russinovich</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/CL04.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/CL04.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/CL04.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/CL04.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVC02</td>
+        <td>
+            <a href="/Sessions/P09-21" alt="">Windows Identity Foundation Overview</a>
+            <br />
+            <span class="speakers"><em>Vittorio Bertocci</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC02.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC02.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC02.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC02.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>FT04</td>
+        <td>
+            <a href="/Sessions/P09-22" alt="">Windows Workflow Foundation 4 from the Inside Out</a>
+            <br />
+            <span class="speakers"><em>Bob Schmidt</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/FT04.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/FT04.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/FT04.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/FT04.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>PR06</td>
+        <td>
+            <a href="/Sessions/PR06" alt="">Developing Solutions with Business Connectivity Services in Microsoft SharePoint Server 2010</a>
+            <br />
+            <span class="speakers"><em>Steve Fox</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/PR06.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/PR06.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/PR06.mp4" alt="MP4">MP4</a></td>
+        <td></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>PR07</td>
+        <td>
+            <a href="/Sessions/PR07" alt="">Developing Solutions for Microsoft SharePoint Server 2010 Using the Client Object Model</a>
+            <br />
+            <span class="speakers"><em>Mike Ammerlaan</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/PR07.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/PR07.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/PR07.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/PR07.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>PR09</td>
+        <td>
+            <a href="/Sessions/PR09" alt="">Document Assembly and Manipulation on Microsoft SharePoint Server 2010 Using Word Automation Services and Open XML</a>
+            <br />
+            <span class="speakers"><em>Zeyad Rajabi</em></span>
+        </td>
+        <td></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/PR09.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/PR09.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/PR09.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow smooth">
+        <td>PR10</td>
+        <td>
+            <a href="/Sessions/PR10" alt="">SharePoint Is Not Just On-Premise: Developing and Deploying Solutions to Microsoft SharePoint Online</a>
+            <br />
+            <span class="speakers"><em>Rob Howard</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/PR10.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/PR10.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/PR10.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/PR10.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class=" smooth">
+        <td>PR11</td>
+        <td>
+            <a href="/Sessions/PR11" alt="">Leveraging and Extending Microsoft SharePoint Server 2010 Identity Features</a>
+            <br />
+            <span class="speakers"><em>Venky Veeraraghavan</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/PR11.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/PR11.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/PR11.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/PR11.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>PR12</td>
+        <td>
+            <a href="/Sessions/PR12" alt="">It's All about the Services: Developing Custom Applications for Microsoft SharePoint Server 2010 Using Microsoft ASP.NET, WCF, and REST</a>
+            <br />
+            <span class="speakers"><em>Maxim Lukiyanov</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/PR12.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/PR12.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/PR12.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/PR12.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>PR13</td>
+        <td>
+            <a href="/Sessions/PR13" alt="">Integrating and Extending the Microsoft Office Communicator Experience with Windows Presentation Foundation and Microsoft Silverlight</a>
+            <br />
+            <span class="speakers"><em>David Ollason</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/PR13.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/PR13.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/PR13.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/PR13.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>PR14</td>
+        <td>
+            <a href="/Sessions/PR14" alt="">Unleashing the Power of Excel on the Web</a>
+            <br />
+            <span class="speakers"><em>Shahar Prish</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/PR14.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/PR14.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/PR14.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/PR14.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>PR30</td>
+        <td>
+            <a href="/Sessions/PR30" alt="">The Exchange 2010 Developer Story: Building Rich Exchange-enabled Applications for the Enterprise and the Cloud</a>
+            <br />
+            <span class="speakers"><em>Jason Henderson</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/PR30.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/PR30.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/PR30.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/PR30.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>PR31</td>
+        <td>
+            <a href="/Sessions/PR31" alt="">Managing the Solution Lifecycle for xRM Applications</a>
+            <br />
+            <span class="speakers"><em>Andrew Bybee</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/PR31.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/PR31.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/PR31.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/PR31.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>PR33</td>
+        <td>
+            <a href="/Sessions/PR33" alt="">Build a .NET Business Application in 60 Minutes with xRM and SharePoint</a>
+            <br />
+            <span class="speakers"><em>Barry Givens, Nikhil Hasija</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/PR33.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/PR33.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/PR33.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/PR33.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC06</td>
+        <td>
+            <a href="/Sessions/SVC06" alt="">Scaling out Web Applications with Microsoft SQL Azure Databases</a>
+            <br />
+            <span class="speakers"><em>David Robinson</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC06.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC06.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC06.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC06.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVC08</td>
+        <td>
+            <a href="/Sessions/SVC08" alt="">Patterns for Building Scalable and Reliable Applications with Windows Azure</a>
+            <br />
+            <span class="speakers"><em>Brad Calder</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC08.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC08.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC08.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC08.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC09</td>
+        <td>
+            <a href="/Sessions/SVC09" alt="">Windows Azure Tables and Queues Deep Dive</a>
+            <br />
+            <span class="speakers"><em>Jai Haridas</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC09.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC09.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC09.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC09.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVC10</td>
+        <td>
+            <a href="/Sessions/SVC10" alt="">Software + Services Identity Roadmap Update</a>
+            <br />
+            <span class="speakers"><em>Kim Cameron, Dmitry Sotnikov</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC10.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC10.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC10.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC10.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC12</td>
+        <td>
+            <a href="/Sessions/SVC12" alt="">Microsoft SQL Azure Database: Under the Hood</a>
+            <br />
+            <span class="speakers"><em>Jeff Currier</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC12.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC12.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC12.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC12.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class=" smooth">
+        <td>SVC13</td>
+        <td>
+            <a href="/Sessions/SVC13" alt="">Windows Azure Present and Future</a>
+            <br />
+            <span class="speakers"><em>Manuvir Das</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC13.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC13.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC13.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC13.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC14</td>
+        <td>
+            <a href="/Sessions/SVC14" alt="">Windows Azure Blob and Drive Deep Dive</a>
+            <br />
+            <span class="speakers"><em>Brad Calder</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC14.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC14.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC14.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC14.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVC15</td>
+        <td>
+            <a href="/Sessions/SVC15" alt="">Windows Azure Monitoring, Logging, and Management APIs</a>
+            <br />
+            <span class="speakers"><em>Matthew Kerner</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC15.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC15.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC15.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC15.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC16</td>
+        <td>
+            <a href="/Sessions/SVC16" alt="">Developing Advanced Applications with Windows Azure</a>
+            <br />
+            <span class="speakers"><em>Steve Marx</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC16.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC16.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC16.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC16.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVC17</td>
+        <td>
+            <a href="/Sessions/SVC17" alt="">Enabling Single Sign-On to Windows Azure Applications</a>
+            <br />
+            <span class="speakers"><em>Hervey Wilson</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC17.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC17.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC17.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC17.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC18</td>
+        <td>
+            <a href="/Sessions/SVC18" alt="">Building Hybrid Cloud Applications with Windows Azure and the Service Bus</a>
+            <br />
+            <span class="speakers"><em>Clemens Vasters</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC18.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC18.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC18.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC18.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVC19</td>
+        <td>
+            <a href="/Sessions/SVC19" alt="">REST Services Security Using the Access Control Service</a>
+            <br />
+            <span class="speakers"><em>Justin Smith</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC19.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC19.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC19.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC19.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC20</td>
+        <td>
+            <a href="/Sessions/SVC20" alt="">Bridging the Gap from On-Premises to the Cloud</a>
+            <br />
+            <span class="speakers"><em>Yousef Khalidi</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC20.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC20.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC20.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC20.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVC30</td>
+        <td>
+            <a href="/Sessions/SVC22" alt="">Lessons Learned: Migrating Applications to the Windows Azure Platform</a>
+            <br />
+            <span class="speakers"><em>Wade Wegner</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC30.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC30.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC30.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC30.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC23</td>
+        <td>
+            <a href="/Sessions/SVC23" alt="">Using the Microsoft Sync Framework to Connect Apps to the Cloud</a>
+            <br />
+            <span class="speakers"><em>Mark Scurrell</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC23.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC23.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC23.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVC25</td>
+        <td>
+            <a href="/Sessions/SVC25" alt="">Automating the Application Lifecycle with Windows Azure</a>
+            <br />
+            <span class="speakers"><em>Sriram Krishnan</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC25.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC25.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC25.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC25.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC26</td>
+        <td>
+            <a href="/Sessions/SVC26" alt="">How Microsoft SharePoint 2010 was Built with the Windows Identity Foundation</a>
+            <br />
+            <span class="speakers"><em>Sesha Mani</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC26.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC26.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC26.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC26.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVC27</td>
+        <td>
+            <a href="/Sessions/SVC27" alt="">The Future of Database Development with SQL Azure</a>
+            <br />
+            <span class="speakers"><em>David Robinson</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC27.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC27.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC27.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC27.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC28</td>
+        <td>
+            <a href="/Sessions/SVC28" alt="">The ¡®M¡¯-Based System.Identity Model for Accessing Directory Services</a>
+            <br />
+            <span class="speakers"><em>Gert Drapers, Kim Cameron</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC28.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC28.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC28.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC28.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class=" smooth">
+        <td>SVC29</td>
+        <td>
+            <a href="/Sessions/SVC29" alt="">Enrich your Applications with Data from Microsoft  Project Code Name ¡°Dallas¡±</a>
+            <br />
+            <span class="speakers"><em>Zach Owens</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC29.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC29.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC29.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC29.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC31</td>
+        <td>
+            <a href="/Sessions/SVC31" alt="">Lessons Learned:   Building On-Premises and Cloud Applications with the Service Bus and Windows Azure</a>
+            <br />
+            <span class="speakers"><em>Todd Holmquist-Sutherland</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC31.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC31.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC31.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC31.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVC32</td>
+        <td>
+            <a href="/Sessions/SVC32" alt="">Lessons Learned:   Building Scalable Applications with the Windows Azure Platform</a>
+            <br />
+            <span class="speakers"><em>Simon Davies</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC32.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC32.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC32.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC32.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC33</td>
+        <td>
+            <a href="/Sessions/SVC33" alt="">Lessons Learned:   Building Multi-Tenant Applications with the Windows Azure Platform</a>
+            <br />
+            <span class="speakers"><em>Ben Riga</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC33.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC33.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC33.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC33.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVC36</td>
+        <td>
+            <a href="/Sessions/SVC36" alt="">Microsoft adPlatform Opportunities for Developers</a>
+            <br />
+            <span class="speakers"><em>Eric Totherow</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC36.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC36.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC36.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC36.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC37</td>
+        <td>
+            <a href="/Sessions/SVC37" alt="">Introduction to Building Applications with Windows Azure</a>
+            <br />
+            <span class="speakers"><em>David Lemphers</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC37.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC37.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC37.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC37.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVC50</td>
+        <td>
+            <a href="/Sessions/SVC50" alt="">Building Java Applications with Windows Azure</a>
+            <br />
+            <span class="speakers"><em>Steve Marx</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC50.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC50.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC50.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC50.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC51</td>
+        <td>
+            <a href="/Sessions/SVC51" alt="">Developing PHP and MySQL Applications with Windows Azure</a>
+            <br />
+            <span class="speakers"><em>Mohit Srivastava, Tushar Shanbhag</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC51.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC51.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC51.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC51.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVC52</td>
+        <td>
+            <a href="/Sessions/SVC52" alt="">SQL Azure Database: Present and Future</a>
+            <br />
+            <span class="speakers"><em>Dave Campbell, Tony Petrossian</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC52.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC52.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC52.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC52.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVC53</td>
+        <td>
+            <a href="/Sessions/SVC53" alt="">Tips and Tricks for Using Visual Studio 2010 to Build Applications that Run on Windows Azure</a>
+            <br />
+            <span class="speakers"><em>Jim Nakashima</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC53.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC53.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC53.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC53.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVC54</td>
+        <td>
+            <a href="/Sessions/SVC54" alt="">The Business of Windows Azure:  What you should know about Windows Azure Platform pricing and SLAs</a>
+            <br />
+            <span class="speakers"><em>Dianne O'Brien</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVC54.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVC54.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVC54.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVC54.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVR06</td>
+        <td>
+            <a href="/Sessions/SVR06" alt="">Extending Internet Information Services (IIS) 7.x</a>
+            <br />
+            <span class="speakers"><em>Will Sadler</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR06.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR06.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR06.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR06.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVR07</td>
+        <td>
+            <a href="/Sessions/SVR07" alt="">Introduction to Microsoft SQL Server 2008 R2 StreamInsight</a>
+            <br />
+            <span class="speakers"><em>Torsten Grabs</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR07.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR07.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR07.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR07.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVR08</td>
+        <td>
+            <a href="/Sessions/SVR08" alt="">Advanced Microsoft SQL Server 2008 R2 StreamInsight</a>
+            <br />
+            <span class="speakers"><em>Roman Schindlauer, Beysim Sezgin</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR08.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR08.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR08.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR08.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVR09</td>
+        <td>
+            <a href="/Sessions/SVR09" alt="">Developing Rich Reporting Solutions with Microsoft SQL Server 2008 R2</a>
+            <br />
+            <span class="speakers"><em>Stella Chan</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR09.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR09.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR09.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR09.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVR10</td>
+        <td>
+            <a href="/Sessions/SVR10" alt="">Lighting up Windows Server 2008 R2 Using the ConcRT on UMS</a>
+            <br />
+            <span class="speakers"><em>Dana Groff</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR10.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR10.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR10.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR10.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVR11</td>
+        <td>
+            <a href="/Sessions/SVR11" alt="">Improving Application Compatibility and Quality for Windows Server 2008 R2</a>
+            <br />
+            <span class="speakers"><em>Frank Botello</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR11.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR11.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR11.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR11.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVR12</td>
+        <td>
+            <a href="/Sessions/SVR12" alt="">Building Your Administration GUI over Windows PowerShell</a>
+            <br />
+            <span class="speakers"><em>Kenneth Hansen, Narayanan Lakshmanan</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR12.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR12.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR12.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR12.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVR13</td>
+        <td>
+            <a href="/Sessions/SVR13" alt="">Windows PowerShell: An Automation Toolbox for Building Solutions That Span Small Businesses, Enterprises, and Cloud Services</a>
+            <br />
+            <span class="speakers"><em>Kenneth Hansen, Narayanan Lakshmanan</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR13.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR13.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR13.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR13.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVR14</td>
+        <td>
+            <a href="/Sessions/SVR14" alt="">Building Live Media Viewing Experiences Using Internet Information Services (IIS) Smooth Streaming and the Smooth Streaming Player SDK</a>
+            <br />
+            <span class="speakers"><em>Vishal Sood</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR14.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR14.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR14.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR14.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVR15</td>
+        <td>
+            <a href="/Sessions/SVR15" alt="">Microsoft BizTalk Server Futures and Roadmap</a>
+            <br />
+            <span class="speakers"><em>Balasubramanian Sriram</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR15.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR15.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR15.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR15.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVR16</td>
+        <td>
+            <a href="/Sessions/SVR16" alt="">Connecting Applications with the Microsoft BizTalk Enterprise Service Bus Toolkit</a>
+            <br />
+            <span class="speakers"><em>Syed Rasheed, Dmitri Ossipov</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR16.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR16.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR16.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR16.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVR17</td>
+        <td>
+            <a href="/Sessions/SVR17" alt="">Data-Intensive Computing on Windows HPC Server with the DryadLINQ Framework</a>
+            <br />
+            <span class="speakers"><em>John Vert</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR17.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR17.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR17.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR17.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVR18</td>
+        <td>
+            <a href="/Sessions/SVR18" alt="">Developing Applications for Scale-Up Servers Running Windows Server 2008 R2</a>
+            <br />
+            <span class="speakers"><em>Pedro Teixeira</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR18.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR18.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR18.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR18.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVR19</td>
+        <td>
+            <a href="/Sessions/SVR19" alt="">SQL Server Modeling Services: Using Metadata to Drive Application Design, Development and Management</a>
+            <br />
+            <span class="speakers"><em>James Baker, Shoshanna Budzianowski</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR19.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR19.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR19.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR19.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVR31</td>
+        <td>
+            <a href="/Sessions/SVR31" alt="">Making Microsoft SQL Server 2008 Fly</a>
+            <br />
+            <span class="speakers"><em>Yavor Angelov</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR31.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR31.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR31.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR31.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>SVR32</td>
+        <td>
+            <a href="/Sessions/SVR32" alt="">Microsoft Semantic Engine</a>
+            <br />
+            <span class="speakers"><em>Naveen Garg, Duncan Davenport</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR32.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR32.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR32.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR32.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>SVR33</td>
+        <td>
+            <a href="/Sessions/SVR33" alt="">Building Location Aware Applications with the SQL Server Spatial Library</a>
+            <br />
+            <span class="speakers"><em>Olivier Meyer, Ed Katibah</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/SVR33.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/SVR33.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/SVR33.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/SVR33.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>VTL01</td>
+        <td>
+            <a href="/Sessions/VTL01" alt="">Code Contracts and Pex: Power Charge Your Assertions and Unit Tests</a>
+            <br />
+            <span class="speakers"><em>Mike Barnett, Nikolai Tillmann</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/VTL01.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/VTL01.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/VTL01.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/VTL01.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>VTL02</td>
+        <td>
+            <a href="/Sessions/VTL02" alt="">Axum: A .NET Language for Safe and Scalable Concurrency</a>
+            <br />
+            <span class="speakers"><em>Niklas Gustafsson</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/VTL02.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/VTL02.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/VTL02.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/VTL02.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>VTL03</td>
+        <td>
+            <a href="/Sessions/VTL03" alt="">Infer.NET: Building Software with Intelligence</a>
+            <br />
+            <span class="speakers"><em>John Guiver, John Winn</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/VTL03.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/VTL03.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/VTL03.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/VTL03.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>VTL04</td>
+        <td>
+            <a href="/Sessions/VTL04" alt="">Rx: Reactive Extensions for .NET</a>
+            <br />
+            <span class="speakers"><em>Erik Meijer</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/VTL04.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/VTL04.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/VTL04.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/VTL04.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>VTL05</td>
+        <td>
+            <a href="/Sessions/VTL05" alt="">A New Approach to Exploring Information on the Web</a>
+            <br />
+            <span class="speakers"><em>Gary Flake</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/VTL05.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/VTL05.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/VTL05.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/VTL05.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>VTL30</td>
+        <td>
+            <a href="/Sessions/VTL30" alt="">Managing Development to Inspire Innovation and Create Great User Experiences</a>
+            <br />
+            <span class="speakers"><em>Scott Stanfield, Bill Crow</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/VTL30.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/VTL30.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/VTL30.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/VTL30.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="">
+        <td>VTL31</td>
+        <td>
+            <a href="/Sessions/VTL31" alt="">Coming Together in the Cloud</a>
+            <br />
+            <span class="speakers"><em>Jeff Norris, Rick Boykin, Marc Mercuri</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/VTL31.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/VTL31.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/VTL31.mp4" alt="MP4">MP4</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/ppt/VTL31.pptx" alt="Slides">Slides</a></td>
+    </tr>
+    
+    <tr class="oddrow">
+        <td>VTL32</td>
+        <td>
+            <a href="/Sessions/VTL32" alt="">Concurrency Fuzzing &amp; Data Races</a>
+            <br />
+            <span class="speakers"><em>Sebastian Burckhardt, Madan Musuvathi</em></span>
+        </td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmv/VTL32.wmv" alt="WMV">WMV</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/wmvhigh/VTL32.wmv" alt="WMVHigh">WMVHigh</a></td>
+        <td><a href="http://ecn.channel9.msdn.com/o9/pdc09/mp4/VTL32.mp4" alt="MP4">MP4</a></td>
+        <td></td>
+    </tr>
+    
+    </tbody>
+</table>
+ 
+</div>
+    </div>
+</div>
+			</div>
+			<div id="sidebar">
+<div id="cta" class="bucket"><h3>Thank You From the PDC09 Team!</h3>
+<p>Thank you to all the attendees, speakers and exhibitors that made PDC09 such a successful event.&nbsp; Join the <a href="https://www.ustechsregister.com/pdcmailinglist/main.aspx">PDC&nbsp;mailing list </a>to get updates on future PDC events.</p>
+</div>
+<div id="whatshappening" class="bucket">
+	<h3>What's Happening <a class="rss" href="/WhatsHappening/RSS">RSS Feed</a></h3>
+	<p>Watch the Windows 7 Developer Boot Camp Online&nbsp;<a href="/WhatsHappening/Watch-the-Windows-7-Developer-Boot-Camp-Online">more&#0187;</a><span class="date">Dec 09, 2009</span></p><p>Workshop Presentation Content Now Available&nbsp;<a href="/WhatsHappening/Workshop-Presentation-Content-Now-Available">more&#0187;</a><span class="date">Dec 07, 2009</span></p><p>Live Labs Extending Invites for Pivot&nbsp;<a href="/WhatsHappening/Live-Labs-Extending-Invites-for-Pivot">more&#0187;</a><span class="date">Nov 19, 2009</span></p>
+</div>
+<div id="connect" class="bucket connectlinks">
+	<h3>Connect with PDC</h3>
+	<ul>
+		<li><a class="rss" href="/Sessions/RSS">New Sessions</a></li>
+		<li><a class="list" href="https://www.ustechsregister.com/pdcmailinglist/main.aspx">Mailing List</a></li>
+		<li><a class="blog" href="/BehindTheScenes">Blog</a></li>
+		<li><a class="pdc2008" href="http://channel9.msdn.com/pdc2008">PDC 2008 Sessions</a></li>
+		<li><a class="twitter" href="http://r.ch9.ms/twitterpdc">Twitter</a></li>
+		<li><a class="facebook" href="http://r.ch9.ms/pdcfacebook">Facebook</a></li>
+		<li><a class="flickr" href="http://r.ch9.ms/pdcflickr">Flickr</a></li>
+	</ul>
+</div>
+<div id="sponsors" class="bucket">
+	<h3>Sponsors</h3>
+    <ul>
+<li><a href="/Sponsors"><img src="/content/images/sponsors/acer.jpg" alt="Acer" /></a></li>
+<li><a href="/Sponsors"><img src="/content/images/sponsors_devexpress.gif" alt="Devexpress" /></a></li>
+<li><a href="/Sponsors"><img src="/content/images/sponsors_hp.gif" alt="HP" /></a></li>
+</ul>
+</div>
+			</div>
+            <div id="footer">
+<ul>
+    <li><a href="/switch/Mobile">Mobile Site</a></li>
+    <li><a href="/contact">Contact Us</a></li>
+    <li><a href="/terms">Terms Of Use</a></li>
+    <li><a href="/privacy">Privacy Statement</a></li>
+    <li><a href="/rss">RSS Feed</a></li>
+</ul>
+<ul class="credits">
+ <li><span>This site is hosted by Microsoft by ORCSWEB. Copyright 2009 Microsoft. </span></li>
+</ul>
+		    </div>
+		</div>
+	</div>
+    
+    <script src="/Skins/PDC09/Scripts/base.js" type="text/javascript"></script><script src="/Skins/PDC09/Scripts/Sessions.js" type="text/javascript"></script><script src="/Skins/PDC09/Scripts/jquery.autocomplete.js" type="text/javascript"></script><script src="/Skins/PDC09/Scripts/sessionbrowser.4.js" type="text/javascript"></script>
+</body>
+</html>
+
